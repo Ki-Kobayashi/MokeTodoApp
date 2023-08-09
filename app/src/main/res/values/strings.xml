@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MokeTodoApp</string>
+    <string name="input_detail">詳細</string>
+    <string name="input_title">タイトル</string>
+    <string name="save">保存</string>
+
+<!--  確認ダイアログメッセージ  -->
+    <string name="alert_dialog_delete">このTodoを本当に削除しますか？</string>
+
+<!--　エラーメッセージ　-->
+    <string name="err_todo_not_input">タイトルか詳細が未入力です。入力してください。</string>
+    <string name="done">完了</string>
+    <string name="snack_deleted">1件のTodoを削除しました。</string>
+</resources>
